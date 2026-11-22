@@ -5,7 +5,7 @@
 
 # Huỳnh Đăng Khoa
 
-**Aspiring Data Engineer · Batch, Streaming & Lakehouse Pipelines**
+**Data Engineer · Batch, Streaming & Lakehouse Pipelines**
 
 Information Systems Student @ University of Information Technology (UIT - VNUHCM)
 
