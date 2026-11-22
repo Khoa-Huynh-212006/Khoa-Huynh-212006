@@ -1,11 +1,10 @@
 <div align="center">
 
-<!-- NẾU MUỐN THÊM ẢNH BANNER NHƯ VNGBTHANG, HÃY UPLOAD ẢNH VÀO REPO VÀ BỎ COMMENT DÒNG DƯỚI -->
-<!-- <img src="./banner.png" alt="Data Engineering Banner" width="100%" /> -->
+<img src="./banner.svg" alt="Data Engineering Banner" width="100%" />
 
 # Huỳnh Đăng Khoa
 
-**Data Engineer · Batch, Streaming & Lakehouse Pipelines**
+**Analytics Engineer**
 
 Information Systems Student @ University of Information Technology (UIT - VNUHCM)
 
