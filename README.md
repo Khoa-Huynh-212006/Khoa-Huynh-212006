@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./banner.svg" alt="Data Engineering Banner" width="100%" />
-  
 # Huỳnh Đăng Khoa
 
 **Analytics Engineer**
@@ -13,6 +11,10 @@ Information Systems Student @ University of Information Technology (UIT - VNUHCM
 [![GitHub](https://img.shields.io/badge/GitHub-Khoa--Huynh--212006-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Khoa-Huynh-212006)
 
 [Focus](#-areas-of-focus) · [Architecture](#-end-to-end-data-flow) · [Tech Stack](#-tech-stack) · [Featured Projects](#-featured-projects) · [Stats](#-github-analytics)
+
+<br/>
+
+<img src="./banner.svg" alt="Analytics Engineer Banner" width="100%" />
 
 </div>
 
@@ -72,9 +74,9 @@ I design and build end-to-end data pipelines, Lakehouse architectures, and analy
 
 ### 🚀 Featured Projects
 
-* **[FastOrder Enterprise E-Commerce Data Platform](https://github.com/Khoa-Huynh-212006/Enterprise-ECommerce-Data-Platform)** — Config-driven incremental ingestion from PostgreSQL to MinIO, PySpark Delta Lake Silver processing, dbt star-schema modeling, Airflow orchestration, and Power BI reporting.
-* **[GB Road Safety OLAP & Data Mining](https://github.com/Khoa-Huynh-212006/GB-Road-Safety-OLAP)** — End-to-end BI solution on UK Road Safety datasets featuring SSIS ETL pipelines, SSAS multidimensional cubes (MDX), Power BI/Looker Studio dashboards, and XGBoost predictive modeling.
-* **[Contextual & Incipient Sensor Fault Detection](https://github.com/Khoa-Huynh-212006)** — Undergraduate research modeling cross-sensor relationships across large-scale solar PV telemetry datasets (BR-PVGen, NREL, DKA) to detect subtle sensor anomalies.
+- **[FastOrder Enterprise E-Commerce Data Platform](https://github.com/Khoa-Huynh-212006/Enterprise-ECommerce-Data-Platform)** — Config-driven incremental ingestion from PostgreSQL to MinIO, PySpark Delta Lake Silver processing, dbt star-schema modeling, Airflow orchestration, and Power BI reporting.
+- **[GB Road Safety OLAP & Data Mining](https://github.com/Khoa-Huynh-212006/GB-Road-Safety-OLAP)** — End-to-end BI solution on UK Road Safety datasets featuring SSIS ETL pipelines, SSAS multidimensional cubes (MDX), Power BI/Looker Studio dashboards, and XGBoost predictive modeling.
+- **[Contextual & Incipient Sensor Fault Detection](https://github.com/Khoa-Huynh-212006)** — Undergraduate research modeling cross-sensor relationships across large-scale solar PV telemetry datasets (BR-PVGen, NREL, DKA) to detect subtle sensor anomalies.
 
 ### 📊 GitHub Analytics
 
