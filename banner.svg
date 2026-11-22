@@ -1,0 +1,98 @@
+<svg width="1280" height="320" viewBox="0 0 1280 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    
+    <linearGradient id="bg-grad" x1="0" y1="0" x2="1280" y2="320" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0B1116" />
+      <stop offset="55%" stop-color="#0E1C21" />
+      <stop offset="100%" stop-color="#19131B" />
+    </linearGradient>
+
+    
+    <radialGradient id="teal-glow" cx="0.25" cy="0.2" r="0.5">
+      <stop offset="0%" stop-color="#14B8A6" stop-opacity="0.14" />
+      <stop offset="100%" stop-color="#0B1116" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="red-glow" cx="0.88" cy="0.55" r="0.45">
+      <stop offset="0%" stop-color="#F43F5E" stop-opacity="0.18" />
+      <stop offset="100%" stop-color="#0B1116" stop-opacity="0" />
+    </radialGradient>
+
+    
+    <linearGradient id="pipe-grad" x1="665" y1="175" x2="1185" y2="175" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#2DD4BF" />
+      <stop offset="50%" stop-color="#38BDF8" />
+      <stop offset="100%" stop-color="#F43F5E" />
+    </linearGradient>
+  </defs>
+
+  
+  <rect width="1280" height="320" rx="16" fill="url(#bg-grad)" />
+  <rect width="1280" height="320" rx="16" fill="url(#teal-glow)" />
+  <rect width="1280" height="320" rx="16" fill="url(#red-glow)" />
+  <rect x="0.5" y="0.5" width="1279" height="319" rx="15.5" stroke="#1E293B" />
+
+  
+  <line x1="68" y1="64" x2="84" y2="64" stroke="#2DD4BF" stroke-width="2.5" />
+  <line x1="88" y1="64" x2="98" y2="64" stroke="#F43F5E" stroke-width="2.5" />
+  <text x="108" y="68" fill="#5EEAD4" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" font-weight="600" letter-spacing="2.4">
+    CLOUD LAKEHOUSE / DATA MODELING / BI
+  </text>
+
+  <text x="68" y="138" fill="#F8FAFC" font-family="system-ui, -apple-system, &#39;Segoe UI&#39;, Roboto, Helvetica, Arial, sans-serif" font-size="50" font-weight="700" letter-spacing="-1">
+    Analytics Engineer<tspan fill="#F43F5E">.</tspan>
+  </text>
+
+  <text x="68" y="176" fill="#94A3B8" font-family="system-ui, -apple-system, &#39;Segoe UI&#39;, Roboto, Helvetica, Arial, sans-serif" font-size="17.5" font-weight="400">
+    Bridging cloud data pipelines with analytics-ready models &amp; BI.
+  </text>
+
+  <text x="68" y="256" fill="#64748B" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" font-weight="600" letter-spacing="2">
+    <tspan fill="#2DD4BF">DBT · CLOUD · SPARK</tspan>  ·  AIRFLOW · KAFKA  ·  <tspan fill="#FB7185">OLAP · POWER BI</tspan>
+  </text>
+
+  
+  <text x="665" y="86" fill="#64748B" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" font-weight="600" letter-spacing="2.4">
+    FROM RAW EVENTS TO DECISIONS
+  </text>
+
+  
+  <line x1="665" y1="175" x2="1185" y2="175" stroke="url(#pipe-grad)" stroke-width="2.5" />
+
+  
+  <polyline points="795,175 820,122 850,122" fill="none" stroke="#2DD4BF" stroke-width="1.5" stroke-opacity="0.65" />
+  <polyline points="925,175 950,230 980,230" fill="none" stroke="#94A3B8" stroke-width="1.5" stroke-opacity="0.55" />
+  <polyline points="1055,175 1080,122 1110,122" fill="none" stroke="#F43F5E" stroke-width="1.5" stroke-opacity="0.7" />
+
+  
+  <circle cx="665" cy="175" r="7" fill="#0F172A" stroke="#2DD4BF" stroke-width="2.5" />
+  <text x="665" y="204" text-anchor="middle" fill="#CBD5E1" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" font-weight="600" letter-spacing="1.2">SOURCE</text>
+
+  
+  <circle cx="795" cy="175" r="7" fill="#2DD4BF" />
+  <text x="795" y="204" text-anchor="middle" fill="#CBD5E1" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" font-weight="600" letter-spacing="1.2">INGEST</text>
+
+  
+  <circle cx="925" cy="175" r="7.5" fill="#0F172A" stroke="#F43F5E" stroke-width="2.5" />
+  <text x="925" y="153" text-anchor="middle" fill="#F8FAFC" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" font-weight="700" letter-spacing="1.2">DBT MODEL</text>
+
+  
+  <circle cx="1055" cy="175" r="7" fill="#F43F5E" />
+  <text x="1055" y="204" text-anchor="middle" fill="#CBD5E1" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" font-weight="600" letter-spacing="1.2">LAKEHOUSE</text>
+
+  
+  <circle cx="1185" cy="175" r="8.5" fill="#F43F5E" />
+  <circle cx="1185" cy="175" r="13" stroke="#F43F5E" stroke-opacity="0.35" stroke-width="1.5" />
+  <text x="1185" y="204" text-anchor="middle" fill="#FECDD3" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" font-weight="700" letter-spacing="1.2">SERVE BI</text>
+
+  
+  <circle cx="850" cy="122" r="4.5" fill="#2DD4BF" />
+  <text x="860" y="126" fill="#5EEAD4" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="9.5" font-weight="600" letter-spacing="1">AIRFLOW · KAFKA</text>
+
+  
+  <circle cx="980" cy="230" r="4.5" fill="#94A3B8" />
+  <text x="990" y="234" fill="#94A3B8" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="9.5" letter-spacing="1">TESTS · CONTRACTS</text>
+
+  
+  <circle cx="1110" cy="122" r="4.5" fill="#F43F5E" />
+  <text x="1120" y="126" fill="#FDA4AF" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="9.5" font-weight="600" letter-spacing="1">CLOUD · SEMANTIC</text>
+</svg>
